@@ -1,0 +1,3 @@
+[submodule "openligadb"]
+	path = openligadb
+	url = git@github.com:pilgrimagesoftware/openligadb.git

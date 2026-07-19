@@ -1,3 +1,6 @@
 [submodule "openligadb"]
 	path = openligadb
 	url = git@github.com:pilgrimagesoftware/openligadb.git
+[submodule "plugin-api"]
+	path = plugin-api
+	url = git@github.com:pilgrimagesoftware/fulltime-plugin-api.git
